@@ -63,5 +63,4 @@ A highly interactive, full-stack web application designed to visualize and bench
 ![Educational Mode](screenshots/educational.png)
 ![Benchmarking Page](screenshots/benchmark.png)
 ## 📄 License
-📄 License
 This project is open-source and developed for educational and demonstration purposes.
