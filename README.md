@@ -58,7 +58,9 @@ A highly interactive, full-stack web application designed to visualize and bench
 - **Backend**: Configured for Render via `render.yaml`. 
 
 ## 📸 Screenshots
-*(Add screenshots of your Simulator, Comparison Dashboard, and Benchmarking Page here when deploying to GitHub)*
-
+![Simulator Interface](screenshots/simulator.png)
+![Comparison Dashboard](screenshots/comparison.png)
+![Educational Mode](screenshots/educational.png)
+![Benchmarking Page](screenshots/benchmark.png)
 ## 📄 License
 MIT License
